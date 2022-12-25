@@ -1,0 +1,46 @@
+body {
+    font-family: "poppins", sans-serif ;
+    background-image: url("../images/grunge_detailed_dusty_overlay_texture_2804.jpg");
+}
+
+.page-content {
+    margin-top: 110px;
+}
+
+footer {
+    font-family: "poppins", sans-serif;
+    margin-top: 100px;
+    border-top: solid 1px;
+    background-color: #e3b2b1;
+
+    
+
+    h4{
+        margin-top: 20px;
+    }
+
+    h3{
+        margin-top: 20px;
+        font-family:Verdana;
+        font-weight: 600;
+        
+    }
+
+    p {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-decoration: none;
+        margin-bottom: 5px;
+        font-weight: 500;
+        font-size: 17px;
+
+        a{
+            color: black;
+        }
+    }
+}
+
+.form-control {
+    background-color: #F3F3F3 ;
+}
+
