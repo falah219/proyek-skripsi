@@ -11,7 +11,7 @@
         <div class="container">
           <div class="row align-items-center row-login">
             <div class="col-lg-6 text-center">
-              <img src="images/login-placeholder.png" alt="" class="w-50 mb-4 mb-lg-none">
+              <img src="images/login.jpg" alt="" class="w-50 mb-4 mb-lg-none">
             </div>
             <div class="col-lg-6">
               <h2>Belanja Cuapng Ganas, sekarang menjadi mudah</h2>

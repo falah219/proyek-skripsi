@@ -33,7 +33,7 @@
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link" id="navbarDropdown" role="button" data-toggle="dropdown">
                             <img src="/images/user.png" alt="" class="rounded-circle mr-2 profile-picture">
-                            Hi, {{ Auth::user()->name }}
+                            Hai, {{ Auth::user()->name }}
                         </a>
                         <div class="dropdown-menu">
                             <a href="{{ route('dashboard') }}" class="dropdown-item">Pengaturan dan Riwayat Akun</a>

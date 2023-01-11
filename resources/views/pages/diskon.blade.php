@@ -21,10 +21,10 @@
               <div class="card-body" style="background-color:#dae4f5">
                 <div class="row mt-3">
                   <div class="col-md-12">
-                    <h4>Setiap Pembelian antara Rp. 500.000 dan Rp. 1.000.000</h4>
+                    <h4>Setiap Pembelian antara Rp. 100.000 dan Rp. 300.000</h4>
                   </div>
                   <div class="col-md-12">
-                    <h1 class="text-danger">Diskon 20%</h1>
+                    <h1 class="text-danger">Diskon 10%</h1>
                   </div>
                   <div class="col-md-1 d-none d-md-block">
                     <img src="images/expand_more_24px.svg" alt="">
@@ -36,10 +36,10 @@
               <div class="card-body" style="background-color:#dae4f5">
                 <div class="row mt-3">
                   <div class="col-md-12">
-                    <h4>Setiap Pembelian antara Rp. 1.000.000 dan Rp. 5.000.000</h4>
+                    <h4>Setiap Pembelian antara lebih dari Rp. 300.000 dan Rp. 500.000</h4>
                   </div>
                   <div class="col-md-12">
-                    <h1 class="text-danger">Dskon 30%</h1>
+                    <h1 class="text-danger">Dskon 20%</h1>
                   </div>
                   <div class="col-md-1 d-none d-md-block">
                     <img src="images/expand_more_24px.svg" alt="">
@@ -51,10 +51,10 @@
               <div class="card-body" style="background-color:#dae4f5">
                 <div class="row mt-3">
                   <div class="col-md-12">
-                    <h4>Setiap Pembelian lebih dari Rp. 5.000.000</h4>
+                    <h4>Setiap Pembelian lebih dari Rp. 500.000</h4>
                   </div>
                   <div class="col-md-12">
-                    <h1 class="text-danger">Diskon 50%</h1>
+                    <h1 class="text-danger">Diskon 35%</h1>
                   </div>
                   <div class="col-md-1 d-none d-md-block">
                     <img src="images/expand_more_24px.svg" alt="">

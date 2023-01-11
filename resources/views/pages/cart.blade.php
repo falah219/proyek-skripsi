@@ -167,12 +167,14 @@
                             </div>
                             <div class="col-3 col-md-2">
                                 <div class="product-title text-danger">
-                                    @if ($totalharga >= 500000 && $totalharga <= 3000000)
-                                        Rp. {{ number_format($diskon = $totalharga*(20/100)  ?? 0) }}
-                                    @elseif ($totalharga >3000000 && $totalharga <= 5000000)
-                                        Rp. {{ number_format($diskon = $totalharga*(35/100)?? 0) }}
+                                    @if ($totalharga >= 100000 && $totalharga <= 300000)
+                                        Rp. {{ number_format($diskon = $totalharga*(10/100)  ?? 0) }}
+                                    @elseif ($totalharga >300000 && $totalharga <= 500000)
+                                        Rp. {{ number_format($diskon = $totalharga*(20/100)?? 0) }}
                                     @elseif ($totalharga >5000000)
-                                        Rp. {{ number_format($diskon = $totalharga*(50/100) ?? 0) }}
+                                        Rp. {{ number_format($diskon = $totalharga*(35/100) ?? 0) }}
+                                    @elseif ($totalharga < 100000)
+                                        Rp. {{ number_format($diskon = 0) }}
                                     @endif 
                                 </div>
                                 <div class="product-subtitle">Diskon</div>

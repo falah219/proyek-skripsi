@@ -65,8 +65,8 @@
                 <ul class="navbar-nav d-none d-lg-flex ml-auto">
                   <li class="nav-item dropdown">
                     <a href="#" class="nav-link" id="navbarDropdown" role="button" data-toggle="dropdown">
-                      <img src="/images/user_pc.png" alt="" class="rounded-circle mr-2 profile-picture">
-                      Hi admin yang baik dan tidak sombong
+                      
+                      Hai admin yang baik dan tidak sombong
                     </a>
                     <div class="dropdown-menu">
                       <a class="dropdown-item" href="{{ route('logout') }}"
